@@ -10,7 +10,7 @@ at *midi* folder you can see 27 compositions which composed at different stages 
 
 our train happened as 10 epochs per stage and we caught best weights at 3h stage
 
-##requirements
+## requirements
 
 pretty_midi, tensorflow
 
